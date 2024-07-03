@@ -1,5 +1,8 @@
 async-timeout
 =============
+.. image:: https://assets.piptrends.com/get-last-month-downloads-badge/async-timeout.svg
+    :alt: async-timeout Downloads Last Month by pip Trends
+    :target: https://piptrends.com/package/async-timeout
 .. image:: https://travis-ci.com/aio-libs/async-timeout.svg?branch=master
     :target: https://travis-ci.com/aio-libs/async-timeout
 .. image:: https://codecov.io/gh/aio-libs/async-timeout/branch/master/graph/badge.svg
